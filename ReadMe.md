@@ -1,4 +1,4 @@
-# Dropbox Core SDK for Java 6+
+# Dropbox Core SDK for Java 5+
 
 A Java library to access [Dropbox's HTTP-based Core API](https://www.dropbox.com/developers/core/docs).
 
